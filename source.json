@@ -22,54 +22,54 @@
             "screenshots": {
                 "iphone": [
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone1.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPhone1.jpg",
                         "width": 1242,
                         "height": 2688
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone2.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPhone2.jpg",
                         "width": 1242,
                         "height": 2688
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone3.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPhone3.jpg",
                         "width": 1242,
                         "height": 2688
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone4.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPhone4.jpg",
                         "width": 1242,
                         "height": 2688
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone5.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPhone5.jpg",
                         "width": 1242,
                         "height": 2688
                     }
                 ],
                 "ipad": [
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad1.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPad1.jpg",
                         "width": 2064,
                         "height": 2752
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad2.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPad2.jpg",
                         "width": 2064,
                         "height": 2752
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad3.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPad3.jpg",
                         "width": 2064,
                         "height": 2752
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad4.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPad4.jpg",
                         "width": 2064,
                         "height": 2752
                     },
                     {
-                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad5.jpg",
+                        "imageURL": "https://raw.githubusercontent.com/SpectrumEnergetics/AltStore-Source/main/iPad5.jpg",
                         "width": 2064,
                         "height": 2752
                     }
