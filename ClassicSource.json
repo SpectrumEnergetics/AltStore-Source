@@ -21,8 +21,6 @@
 	    "category": "lifestyle",
             "screenshots": {
                 "iphone": [
-                    "https://example.com/anotherapp_portrait_1.png",
-                    "https://example.com/anotherapp_portrait_2.png",
                     {
                         "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone1.jpg",
                         "width": 1242,
@@ -83,18 +81,10 @@
 		    "buildVersion": "1",
                     "date": "2026-02-24T09:00:00-08:00",
                     "size": 32100000,
-                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "downloadURL": "https://github.com/SpectrumEnergetics/AltStore-Source/releases/tag/v1.1.5/spectrum_pemf.ipa",
                     "localizedDescription": "Latest Release.",
                     "minOSVersion": "15.0"
                 },
-                {
-                    "version": "1.0.0",
-                    "buildVersion": "10"
-		    "date": "2025-08-19T07:00:00-08:00",
-                    "size": 10000000,
-                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
-                    "localizedDescription": "Initial Release, Build 10."
-                }
             ],
             "appPermissions": {
                 "entitlements": [
@@ -120,15 +110,5 @@
             "notify": true,
             "url": "https://example.com/new_feature_details"
         },
-        {
-            "title": "App Update Available",
-            "identifier": "app_update",
-            "caption": "An update is available for My Example App.",
-            "date": "2023-03-10T10:00:00-07:00",
-            "tintColor": "#3660A2",
-            "imageURL": "https://example.com/app_update_image.png",
-            "notify": false,
-            "appID": "com.example.myapp"
-        }
     ]
 }
