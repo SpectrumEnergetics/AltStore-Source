@@ -1,0 +1,114 @@
+{
+    "name": "Spectrum Energetics Source",
+    "subtitle": "Apps for Energy, Health, and Wellness",
+    "description": "We offer these apps as a resource for people interested in health and wellness. They are not intended to be taken as medical advice or used treat or diagnose any medical conditions. User discretion is advised.",
+    "iconURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/SE%20Icon.png",
+    "headerURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/SE_Together%20copy_LR.jpg",
+    "website": "https://www.spectrumpemf.com",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        "com.spectrum.pemf"
+    ],
+    "apps": [
+        {
+            "name": "Spectrum PEMF",
+            "bundleIdentifier": "com.spectrum.pemf",
+            "developerName": "Spectrum Energetics Inc.",
+            "subtitle": "Signal Player for PEMF devices",
+            "localizedDescription": "This app has a curated repository of signal files validated by peer-reviewed scientific research for the application of pulsed electromagnetic field technology. It includes instructions on how to use the app with PEMF devices and provides usage recommendations for each PEMF signal file.",
+            "iconURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/SE%20Icon.png",
+            "tintColor": "#5CA399",
+	    "category": "lifestyle",
+            "screenshots": {
+                "iphone": [
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone1.jpg",
+                        "width": 1242,
+                        "height": 2688
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone2.jpg",
+                        "width": 1242,
+                        "height": 2688
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone3.jpg",
+                        "width": 1242,
+                        "height": 2688
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone4.jpg",
+                        "width": 1242,
+                        "height": 2688
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone5.jpg",
+                        "width": 1242,
+                        "height": 2688
+                    }
+                ],
+                "ipad": [
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad1.jpg",
+                        "width": 2064,
+                        "height": 2752
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad2.jpg",
+                        "width": 2064,
+                        "height": 2752
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad3.jpg",
+                        "width": 2064,
+                        "height": 2752
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad4.jpg",
+                        "width": 2064,
+                        "height": 2752
+                    },
+                    {
+                        "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPad5.jpg",
+                        "width": 2064,
+                        "height": 2752
+                    }
+                ]
+            },
+            "versions": [
+                {
+                    "version": "1.1.5",
+		    "buildVersion": "1",
+                    "date": "2026-02-24T09:00:00-08:00",
+                    "size": 32100000,
+                    "downloadURL": "https://github.com/SpectrumEnergetics/AltStore-Source/releases/download/v1.1.5/spectrum_pemf.ipa",
+                    "localizedDescription": "Latest Release.",
+                    "minOSVersion": "15.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "Spectrum PEMF app available for download",
+            "identifier": "first_release",
+            "caption": "Introducing the Spectrum PEMF app, available for the first time in AltStore!",
+            "date": "2026-06-15",
+            "tintColor": "#5CA399",
+            "imageURL": "https://github.com/SpectrumEnergetics/AltStore-Source/blob/main/iPhone1.jpg",
+            "notify": true,
+            "url": "https://example.com/new_feature_details"
+        }
+    ]
+}
